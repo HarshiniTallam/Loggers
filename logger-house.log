@@ -1,0 +1,55 @@
+2020-02-26 22-16-41 INFO  HouseArea:14 - Enter the area of house in square feets:
+2020-02-26 22-16-47 INFO  HouseArea:16 - Area of my house in square feets is:75.0
+2020-02-26 22-16-47 INFO  HouseArea:17 - To Construct the house choose the materials:
+2020-02-26 22-16-47 INFO  HouseArea:18 - 1.Standard Materials(Rs.1200)
+2.Above Standard Materials(Rs.1500)
+3.High standard Materials(Rs.1800)
+2020-02-26 22-16-47 INFO  HouseArea:19 - Enter your option:
+2020-02-26 22-16-48 INFO  HouseArea:21 - My option is:1
+2020-02-26 22-16-48 INFO  HouseArea:41 - Total cost of the house is:90000.0
+
+2020-02-26 22-16-54 INFO  HouseArea:14 - Enter the area of house in square feets:
+2020-02-26 22-16-56 INFO  HouseArea:16 - Area of my house in square feets is:50.0
+2020-02-26 22-16-56 INFO  HouseArea:17 - To Construct the house choose the materials:
+2020-02-26 22-16-56 INFO  HouseArea:18 - 1.Standard Materials(Rs.1200)
+2.Above Standard Materials(Rs.1500)
+3.High standard Materials(Rs.1800)
+2020-02-26 22-16-56 INFO  HouseArea:19 - Enter your option:
+2020-02-26 22-17-03 INFO  HouseArea:21 - My option is:3
+2020-02-26 22-17-03 INFO  HouseArea:29 - Do you want fully autometed house true/false(+ Rs.700)
+2020-02-26 22-17-06 INFO  HouseArea:33 - YES, I Want fully automated house
+2020-02-26 22-17-06 INFO  HouseArea:41 - Total cost of the house is:125000.0
+
+2020-02-26 22-17-12 INFO  HouseArea:14 - Enter the area of house in square feets:
+2020-02-26 22-17-18 INFO  HouseArea:16 - Area of my house in square feets is:27.0
+2020-02-26 22-17-18 INFO  HouseArea:17 - To Construct the house choose the materials:
+2020-02-26 22-17-18 INFO  HouseArea:18 - 1.Standard Materials(Rs.1200)
+2.Above Standard Materials(Rs.1500)
+3.High standard Materials(Rs.1800)
+2020-02-26 22-17-18 INFO  HouseArea:19 - Enter your option:
+2020-02-26 22-17-20 INFO  HouseArea:21 - My option is:2
+2020-02-26 22-17-20 INFO  HouseArea:41 - Total cost of the house is:40500.0
+
+2020-02-26 22-17-26 INFO  HouseArea:14 - Enter the area of house in square feets:
+2020-02-26 22-17-29 INFO  HouseArea:16 - Area of my house in square feets is:30.0
+2020-02-26 22-17-29 INFO  HouseArea:17 - To Construct the house choose the materials:
+2020-02-26 22-17-29 INFO  HouseArea:18 - 1.Standard Materials(Rs.1200)
+2.Above Standard Materials(Rs.1500)
+3.High standard Materials(Rs.1800)
+2020-02-26 22-17-29 INFO  HouseArea:19 - Enter your option:
+2020-02-26 22-17-30 INFO  HouseArea:21 - My option is:3
+2020-02-26 22-17-30 INFO  HouseArea:29 - Do you want fully autometed house true/false(+ Rs.700)
+2020-02-26 22-17-33 INFO  HouseArea:35 - I dont wnat fully automated house
+2020-02-26 22-17-33 INFO  HouseArea:41 - Total cost of the house is:54000.0
+
+2020-02-26 22-17-36 INFO  HouseArea:14 - Enter the area of house in square feets:
+2020-02-26 22-17-40 INFO  HouseArea:16 - Area of my house in square feets is:50.0
+2020-02-26 22-17-40 INFO  HouseArea:17 - To Construct the house choose the materials:
+2020-02-26 22-17-40 INFO  HouseArea:18 - 1.Standard Materials(Rs.1200)
+2.Above Standard Materials(Rs.1500)
+3.High standard Materials(Rs.1800)
+2020-02-26 22-17-40 INFO  HouseArea:19 - Enter your option:
+2020-02-26 22-17-41 INFO  HouseArea:21 - My option is:4
+2020-02-26 22-17-41 ERROR HouseArea:39 - Choose Valid Option
+2020-02-26 22-17-41 INFO  HouseArea:41 - Total cost of the house is:0.0
+

@@ -1,0 +1,40 @@
+package com.epam.CleanCode;
+
+import java.util.Scanner;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+public class HouseArea {
+	
+	private static final Logger LOGGER = LogManager.getLogger(HouseArea.class); 
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		LOGGER.info("Enter the area of house in square feets:");
+		float area = sc.nextFloat();
+		LOGGER.info("Area of my house in square feets is:"+area);
+		LOGGER.info("To Construct the house choose the materials:");
+		LOGGER.info("1.Standard Materials(Rs.1200)\n2.Above Standard Materials(Rs.1500)\n3.High standard Materials(Rs.1800)");
+		LOGGER.info("Enter your option:");
+		int option = sc.nextInt();
+		LOGGER.info("My option is:"+option);
+		int inr = 0;
+		if(option == 1) 
+			inr = 1200;
+		else if(option == 2)
+			inr = 1500;
+		else if(option == 3) {
+			inr = 1800;
+			LOGGER.info("Do you want fully autometed house true/false(+ Rs.700\n)");
+			boolean opt = sc.nextBoolean();
+			if(opt)
+				inr += 700;
+		}
+		else
+			LOGGER.error("Choose Valid Option");
+		CostCalculation obj = new CostCalculation();
+		LOGGER.info("Total cost of the house is:"+obj.costOfHouse(area, inr));
+	}
+
+}

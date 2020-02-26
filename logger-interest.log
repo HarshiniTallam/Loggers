@@ -1,0 +1,27 @@
+2020-02-26 22-14-53 INFO  InterestCalculation:14 - Enter principle Value:
+2020-02-26 22-14-57 INFO  InterestCalculation:16 - Principle value is:30
+2020-02-26 22-14-57 INFO  InterestCalculation:17 - Enter Daily Interest Rate:
+2020-02-26 22-14-58 INFO  InterestCalculation:19 - Interest is:50.0
+2020-02-26 22-14-58 INFO  InterestCalculation:20 - Enter number of days between payments:
+2020-02-26 22-14-59 INFO  InterestCalculation:22 - 5 days
+2020-02-26 22-14-59 INFO  InterestCalculation:24 - Simple Interest is:75.0
+2020-02-26 22-14-59 INFO  InterestCalculation:25 - Compound Interest is:227.8125
+
+2020-02-26 22-15-05 INFO  InterestCalculation:14 - Enter principle Value:
+2020-02-26 22-15-09 INFO  InterestCalculation:16 - Principle value is:75
+2020-02-26 22-15-09 INFO  InterestCalculation:17 - Enter Daily Interest Rate:
+2020-02-26 22-15-11 INFO  InterestCalculation:19 - Interest is:86.0
+2020-02-26 22-15-11 INFO  InterestCalculation:20 - Enter number of days between payments:
+2020-02-26 22-15-13 INFO  InterestCalculation:22 - 9 days
+2020-02-26 22-15-13 INFO  InterestCalculation:24 - Simple Interest is:580.5
+2020-02-26 22-15-13 INFO  InterestCalculation:25 - Compound Interest is:19983.787
+
+2020-02-26 22-15-17 INFO  InterestCalculation:14 - Enter principle Value:
+2020-02-26 22-15-22 INFO  InterestCalculation:16 - Principle value is:10
+2020-02-26 22-15-22 INFO  InterestCalculation:17 - Enter Daily Interest Rate:
+2020-02-26 22-15-25 INFO  InterestCalculation:19 - Interest is:20.0
+2020-02-26 22-15-25 INFO  InterestCalculation:20 - Enter number of days between payments:
+2020-02-26 22-15-26 INFO  InterestCalculation:22 - 9 days
+2020-02-26 22-15-26 INFO  InterestCalculation:24 - Simple Interest is:18.0
+2020-02-26 22-15-26 INFO  InterestCalculation:25 - Compound Interest is:51.597824
+
